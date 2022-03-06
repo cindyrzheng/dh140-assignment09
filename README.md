@@ -1,7 +1,5 @@
 # Assignment 09
 
-## Intro 
-
 This is a exploratory data analysis of the Corgis dataset that was created to understand how to graph data visualizations. 
 
 It includes descriptions of the data, and some introductory data visualizations. 
