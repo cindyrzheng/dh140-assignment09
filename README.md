@@ -15,3 +15,5 @@ After that are examples of different data plots, first a line plot, then a bar c
 ### Exploratory data anaylsis 
 
 Finally, there is some exploratory data analysis of the percent of english books, of the language of books vs average sentence length of books in that language, average readability vs langauge, and finally avg letters per word vs language. 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/cindyrzheng/dh140-assignment09.git/HEAD)
